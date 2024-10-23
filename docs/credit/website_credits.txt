@@ -1,0 +1,13 @@
+OVERVIEW
+Template Name: Deck
+Version: 1.0
+Initial Release Date: 5/23/2023
+HTML Pages Included: 9
+Author: Holger Koenemann
+Distributor: templatedeck.com
+
+CREDITS
+CSS Framework: Bootstrap 5 - https://getbootstrap.com/
+Animations: Animate on Scroll JS - https://michalsnik.github.io/aos/
+Typeface: Inter - https://rsms.me/inter/
+Image generation: Midjourney - https://www.midjourney.com
